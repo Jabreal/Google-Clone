@@ -1,5 +1,20 @@
-#topr{
+#topheader{
+	display: inline;
+}
+
+#topr {
 	float: right;
 	position: relative;
 }
+
+#topl{
+	float: left;
+	position: absolute;
+}
+
+#middle {
+
+}
+
+
 
